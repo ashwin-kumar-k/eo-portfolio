@@ -1,0 +1,7 @@
+Class,Mean dB,Std dB,Min dB,Max dB,Pol
+Water,-14.92,1.47,-21.5,-9.91,VV
+Urban,-14.27,0.97,-16.13,-11.32,VV
+Vegetation,-12.33,3.58,-22.3,-2.6,VV
+Water,-9.4,1.47,-16.48,-4.47,VH
+Urban,-7.23,0.82,-9.34,-5.38,VH
+Vegetation,-5.41,4.27,-20.85,6.61,VH
