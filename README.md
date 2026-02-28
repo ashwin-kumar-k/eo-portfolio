@@ -10,10 +10,10 @@ I started with a simple question — *how do satellites actually see the Earth d
 
 | Project | What I explored |
 |---------|----------------|
-| [SAR + Optical Fusion](./SAR_Optical_Fusion/) | Combining radar and optical satellite imagery at pixel level |
-| [Automated Image QC](./QC_Dashboard/) | Writing a script to check satellite image quality automatically |
-| [SAR Backscatter Analysis](./Backscatter_Analysis/) | Understanding how radar signals behave over different surfaces |
-| [Drone Image QC](./Drone_QC_Pipeline/) | Automating quality checks on a real drone survey dataset |
+| [SAR + Optical Fusion](./EO-Portfolio/SAR_Optical_Fusion/) | Combining radar and optical satellite imagery at pixel level |
+| [Automated Image QC](./EO-Portfolio/QC_Dashboard/) | Writing a script to check satellite image quality automatically |
+| [SAR Backscatter Analysis](./EO-Portfolio/Backscatter_Analysis/) | Understanding how radar signals behave over different surfaces |
+| [Drone Image QC](./EO-Portfolio/Drone_QC_Pipeline/) | Automating quality checks on a real drone survey dataset |
 
 ---
 
